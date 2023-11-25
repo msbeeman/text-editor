@@ -1,5 +1,5 @@
 {
-  "name": "novel",
+  "name": "mbeeman-text-editor",
   "private": true,
   "scripts": {
     "build": "turbo build",
